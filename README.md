@@ -1,1 +1,1 @@
-# stm32f103testboard
+STM32F103C8T6 테스트 보드
