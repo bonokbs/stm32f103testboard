@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\1_development\1.Project\20210427_STM32_PCB_TEST\PCB\STM32F103_TEST\STM32F103_DEV.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

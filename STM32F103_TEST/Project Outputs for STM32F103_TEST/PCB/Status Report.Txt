@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STM32F103_TEST.PrjPcb]
+   Generated File[STM32F103_DEV-RoundHoles.TXT]
+   Generated File[STM32F103_DEV-SlotHoles.TXT]
+   Generated File[STM32F103_DEV.LDP]
+   Generated File[STM32F103_DEV.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At ¿ÀÈÄ 2:07:35 On 2021-04-30
